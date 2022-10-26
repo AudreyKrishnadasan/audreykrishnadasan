@@ -3,7 +3,7 @@
 
 Hi all! My name is Audrey Krishnadasan and I use she/her pronouns. I am a student at Occidental College in Los Angeles, CA and graduate spring of 2025. I am a computer science major.
 
-I am passionate about expanding my knowledge and learning new things. I am currently enrolled in an online SQL course to learn more about Data science. I pride myself on being a quick learner and being flexible, I hope to bring and utilize these skills in any workplace enviorment I continue in.
+I am passionate about expanding my knowledge and learning new things. I am currently enrolled in an online SQL course to learn more about Data science. I pride myself on being a quick learner and being flexible, I hope to bring and utilize these skills in any workplace environment I continue in.
 
 As a woman of color in a STEM field, I understand the hardships and barriers we have to overcome to be successfull in this industry. I hope to defy these battles and to help create a more diverse industry and foster a more accepting workplace.
 
