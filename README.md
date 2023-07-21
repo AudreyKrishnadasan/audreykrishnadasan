@@ -1,20 +1,27 @@
 ### Hi there 👋
 
+👋 Welcome to my GitHub profile! My name is Audrey Krishnadasan, and I'm currently a junior at the University of San Diego, majoring in Computer Science. I have a passion for project management and am determined to make a significant impact in the tech world by leading and coordinating successful projects.
 
-Hi all! My name is Audrey Krishnadasan and I use she/her pronouns. I am a student at Occidental College in Los Angeles, CA and graduate spring of 2025. I am a computer science major.
+Why Project Management?
 
-I am passionate about expanding my knowledge and learning new things. I like figuring things out for myself, over this winter break I taught myself Python! Then, I converted one of my biggest projects, Police Dispatch, from Java to Python. My next step in this project is to create a GUI for this project using Tkinter. I pride myself on being a quick learner and being flexible, I hope to bring and utilize these skills in any workplace environment I continue in.
+Throughout my academic journey, I've been fascinated by the process of bringing ideas to life through teamwork, effective planning, and meticulous execution. As a natural organizer and problem solver, project management aligns perfectly with my skills and interests. I thrive on collaborating with diverse teams and turning complex challenges into achievable milestones.
 
-As a woman of color in a STEM field, I understand the hardships and barriers we have to overcome to be successfull in this industry. I hope to defy these battles and to help create a more diverse industry and foster a more accepting workplace.
 
-I am a Teaching Assistant for two classes here at Occidental, Data Structures and Advanced Programming, I am passionate about helping students understand the concepts behind implementations of data structues and helping them develop debugging strategies to build their confidence in coding. 
+Repositories
 
-I am currently looking for a summer internship for 2023, hopefully to dive into the field. I am excited to work with others and collaborate on projects. I consider one of my strong suits to be communication, I hope to utilize this tool as I embark on new projects and work with my peers.
+You'll find a couple different types of projects in my Repositories, including some of my leetcode challenge work! I have been trying to explore many different sides of the tech world so I can be well-versed in all subjects and truly find my passion/best skills!
 
-How to reach me:
-    krishnadasan@oxy.edu
-    
-Fun Fact: I am on the varsity softball team at Occidental! While it is sometimes tough balancing athletics and schoolwork, I enjoy being surrounded with a team and all working collaboratively towards a common goal.
+Future Endeavors
+
+Looking ahead, I'm excited to enhance my project management skills through internships, workshops, and continued academic pursuits. I'm also interested in networking with like-minded individuals, mentors, and industry professionals to gain valuable insights and broaden my horizons.
+
+Let's Connect!
+
+If you share an interest in project management, tech, or just want to collaborate on exciting projects, I'd love to connect with you! Feel free to reach out to me via email at akrishnadasan@sandiego.edu, or connect with me on LinkedIn [[Your LinkedIn Profile]](https://www.linkedin.com/in/audrey-krishnadasan-27526024b/) - let's make great things happen together!
+
+Thank you for stopping by my GitHub. Let's embark on this incredible journey of project management and create a future full of innovative solutions and successful endeavors.
+
+Happy coding! 🚀
 
 
 <!--
