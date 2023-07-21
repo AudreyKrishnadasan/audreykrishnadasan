@@ -17,7 +17,7 @@ Looking ahead, I'm excited to enhance my project management skills through inter
 
 ### Let's Connect!
 
-If you share an interest in project management, tech, or just want to collaborate on exciting projects, I'd love to connect with you! Feel free to reach out to me via email at akrishnadasan@sandiego.edu, or connect with me on LinkedIn [[Your LinkedIn Profile]](https://www.linkedin.com/in/audrey-krishnadasan-27526024b/) - let's make great things happen together!
+If you share an interest in project management, tech, or just want to collaborate on exciting projects, I'd love to connect with you! Feel free to reach out to me via email at akrishnadasan@sandiego.edu, or connect with me on LinkedIn [Connect with me here!](https://www.linkedin.com/in/audrey-krishnadasan-27526024b/) - let's make great things happen together!
 
 Thank you for stopping by my GitHub. Let's embark on this incredible journey of project management and create a future full of innovative solutions and successful endeavors.
 
