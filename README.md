@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Welcome to my GitHub profile! My name is Audrey Krishnadasan, and I'm currently a junior at the University of San Diego, majoring in Computer Science with a minor in Mathematics. I have a passion for computer science and am determined to make a significant impact in the tech world by contributing to and leading successful projects.
+👋 Welcome to my GitHub profile! My name is Audrey Krishnadasan, and I'm currently a senior at the University of San Diego, pursing my Bachelor's of Science in Computer Science. I have a passion for software engineering and am determined to make a significant impact in the tech world by contributing to and leading successful projects.
 
 
 ### Repositories
